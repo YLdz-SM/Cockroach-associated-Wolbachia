@@ -1,0 +1,57 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names (displayed in mouseover popups)
+
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file (except in the SEPARATOR line, which uses space).
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+AE017321	AE017321:: B. malayi / wBm // Cd. D
+AM999887	AM999887:: Cx. quinquefasciatus / wPip // Cd. B
+AP013028	AP013028:: C. lectularius  / wCle // Cd. F
+Blattella	Blattella:: B. notulata / wBnot // Cd. F
+CP001391	CP001391:: D. simulans  / wRi // Cd. A
+CP003884	CP003884:: D. simulans  / wHa // Cd. A
+CP011149	CP011149:: D. incompta  / wInc_SM // Cd. A
+CP021120	CP021120:: Cr. megacephala / wMeg // Cd. B
+CP034333	CP034333:: B. malayi / TRS // Cd. D
+CP037426	CP037426:: H. irritans / wIrr // Cd. A
+CP041215	CP041215:: C. sasakii / wCauA // Cd. A
+CP041924	CP041924:: Ae. albopictus / wAlbB-HN2016 // Cd. B
+CP042445	CP042445:: D. melanogaster / wMel_ZH26 // Cd. A
+CP042904	CP042904:: D. ananassae / W2.1 // Cd. A
+CP046577	CP046577:: L. sigmodontis  / wLsig // Cd. D?
+CP046579	CP046579:: C. tuberocauda  / 55YT // Cd. J
+CP046925	CP046925:: D. melanogaster / wMel // Cd. A
+CP048819	CP048819:: D. citri / KPSwDi2567 // Cd. B
+CP050521	CP050521:: B. pahangi / FR3 // Cd. D
+CP050530	CP050530:: D. nikanan / wNik // Cd. A
+CP050531	CP050531:: D. sturtevanti / wStv  // Cd. A
+CP054557	CP054557:: W. pumilae / MIAOwWpum // Cd. A
+CP061738	CP061738:: C. hemipterius / PL13 // Cd. T
+CP067976	CP067976:: S. picta / Spic_B // Cd. B
+CP069053	CP069053:: D. yakuba / wYak // Cd. A
+CP069055	CP069055:: D. simulans  / wAu // Cd. A
+CP069060	CP069060:: D. santomea  / wSan // Cd. A
+CP072012	CP072012:: R. cingulata / wCin2USA1 // Cd. A
+CP076228	CP076228:: D. innubila /  isolate 11 // Cd. A
+CP080546	CP080546:: Ae. aegypti / wAlbB-Q  // Cd. B
+CP084693	CP084693:: An. moucheti / wAnM // Cd. B
+CP087954	CP087954:: C. cephalonica  / SYLI2103 // Cd. B
+CP090948	CP090948:: Ae. aegypti / wMel_GV_13 // Cd. A
+CP091195	CP091195:: D. radicum / iso-1 // Cd. A
+Gromphadorhina	Gromphadorhina:: G. portentosa / wGpor // Cd. F
+LK055284	LK055284:: D. simulans / wAu // Cd. A
+Pseudomops	Pseudomops:: P. septentrionalis / wPsep // Cd. F
+Supella	Supella:: S. longipalpa / wSlon // Cd. F
