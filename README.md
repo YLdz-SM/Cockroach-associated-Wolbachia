@@ -31,7 +31,7 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 > MLST_Wol_IQ_ML_CF.jplace: The final phylogenetic tree after Branche lenghth correction using FastTree and phylogenetic placement using the Apples software. This tree is the final version (https://itol.embl.de/tree/9116312116620381644353101) used in our article.
 
                              
-# Infofiles created for iTOL's tree annotation
+# Inf-ofiles created for iTOL's tree annotation
 
 > Labels.txt: Tree label for RefMSA.fas.iqtree, CLFml.labelled_tree.newick and MLST_Wol_IQ_ML_CF.jplace tree files.
 
