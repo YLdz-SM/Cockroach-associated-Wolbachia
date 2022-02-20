@@ -2,7 +2,7 @@
 Urban entomology heavily relies on the use of conventional insecticides for cockroach management. Yet the symbiotic relationship between cockroaches and their endosymbionts such as Wolbachia holds apposite insights that could be exploited for control.  To better understand the cladogenetic lineage and  host relationship of cockroach-associated Wolbachia we provide here a set of analysis conducted on  MLST data, Biotin synthesis genes from Wolbachia as well as the host Phylogeny.
 
 
-# All input and output files used in the present study are as follow:
+# Key input and output files used in the present study are as follow
 
 # Cophylogeny and event-based analysis
 
