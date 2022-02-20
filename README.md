@@ -47,7 +47,7 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 to be added
 
 # Citation
-It you use the data abouve, please cite the following paper:
+If you use the data abouve, please cite the following paper:
 
 Seun Oladipupo, Younes Laidoudi, John Beckmann, Xing Ping Hu, and Arthur Appel. Symbiotic heritage: The co-speciation in cockroach-associated Wolbachia intimate the pattern in their bedbug host-prey (Under review. DOI: coming...)
 
