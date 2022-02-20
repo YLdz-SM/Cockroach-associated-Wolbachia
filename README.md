@@ -7,12 +7,15 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 # Cophylogeny and event-based analysis
 
 > Mafft_on_BiotinC-H: MSA of the concatenated Biotin C and H genes from cockroach and Cimicidae-associated Wolbachia
+
 > Biotin-C&H.nwk: Parasimony tree from Mafft_on_BiotinC-H
 
 > Mafft_on_HcpA.fas: MSA of the HcpA gene from cockroach and Cimicidae-associated Wolbachia
+
 > hcpA.nwk: Parasimony tree from Mafft_on_HcpA.fas
 
 > Mafft_on_COI.fas: MSA of the cox1 gene from Wolbachia hosts used in this analysis
+
 > COI.nwk: Parasimony tree from Mafft_on_COI.fas
 
 # Phylogenitic Model
