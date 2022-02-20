@@ -26,6 +26,8 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 
 > CLFml.labelled_tree.newick: branche correction regarding to the recombination events. This analysis was conducted on the Iqtree phylogeny using ClonalFrameML.
 
+> CLFml.em.txt: Detailed result of the ClonalFrameML analysis
+
 > Query.fas: All GenBank entries of the quested Wolbachia genes (CoxA, HcpA, GatB, Vird4 and Wsp).
 
 > MLST_Wol_IQ_ML_CF.jplace: The final phylogenetic tree after Branche lenghth correction using FastTree and phylogenetic placement using the Apples software. This tree is the final version (https://itol.embl.de/tree/9116312116620381644353101) used in our article.
@@ -41,7 +43,6 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 
 > Position.txt: Position of the recombination events throughout the alignement.
 
-> CLFml.em.txt: Detailed result of the ClonalFrameML analysis
 
 # Script and flags
 to be added
