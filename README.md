@@ -15,7 +15,7 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 > Mafft_on_COI.fas: MSA of the cox1 gene from Wolbachia hosts used in this analysis
 > COI.nwk: Parasimony tree from Mafft_on_COI.fas
 
-# Phylogenitic Model########
+# Phylogenitic Model
                  
 > RefMSA.fas: Multiloci Sequnce alignement of the concatenated CoxA, HcpA, GatB, Vird4 and Wsp genes of Wolbachia, used for the following Phylogenetic analysis ==> 
 
@@ -27,8 +27,7 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 
 > MLST_Wol_IQ_ML_CF.jplace: The final phylogenetic tree after Branche lenghth correction using FastTree and phylogenetic placement using the Apples software.
 
-                             *************************************************************************************
-                             *************************************************************************************
+                             
 # Annotation files for use on ITOL v5. software (https://itol.embl.de)
 
 > Labels.txt: Tree label for RefMSA.fas.iqtree, CLFml.labelled_tree.newick and MLST_Wol_IQ_ML_CF.jplace tree files.
@@ -40,6 +39,9 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 > Position.txt: Position of the recombination events throughout the alignement.
 
 > CLFml.em.txt: Detailed result of the ClonalFrameML analysis
+
+# Script and flags
+to be added
 
 # Citation
 It you use the data abouve, please cite the following paper:
