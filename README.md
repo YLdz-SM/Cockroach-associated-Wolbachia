@@ -30,7 +30,7 @@ Urban entomology heavily relies on the use of conventional insecticides for cock
 
 > Query.fas: All GenBank entries of the quested Wolbachia genes (CoxA, HcpA, GatB, Vird4 and Wsp).
 
-> MLST_Wol_IQ_ML_CF.jplace: The final phylogenetic tree after Branche lenghth correction using FastTree and phylogenetic placement using the Apples software. This tree is the final version (https://itol.embl.de/tree/9116312116620381644353101) used in our article.
+> MLST_Wol_IQ_ML_CF.jplace: is the [Fig. 1: [final ML phylogeny](https://itol.embl.de/tree/9116312116620381644353101)] after Branche lenghth correction using FastTree and phylogenetic placement using the Apples software. This tree is the  version used in our article.
 
                              
 # Info-files created for iTOL's tree annotation
